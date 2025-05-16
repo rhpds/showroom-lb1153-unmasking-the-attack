@@ -16,7 +16,7 @@ Your objective, as a DevSecOps expert, is to trace back the actions taken by the
 Use the available tools to investigate. A tool is never used twice to solve a mission.
 
 = Starting your missions
-Login to the CTF Dashboardi, where you'll be able to see your mission objectives and to post your responses.
+Login to the CTF Dashboard, where you'll be able to see your mission objectives and to post your responses.
 Each correct answer will complete the current mission and unlock the next one.
 
 

@@ -8,7 +8,7 @@ image::hlarch.png[High Level Component Architecture, 100%, 100%]
 
 == Pipeline as code deployment model (Update 2/2025)
 
-Last year our company, "CustomerFirst,Ltd", went through an global IT Automation program.
+Last year our company, "CustomerFirst,Ltd", went through a global IT Automation program.
 The Automated Cloud Application Lifecycle (ACAL) project was initiated to tackle the automation of the containerized applications.
 From the beginning of 2025, new applications shall follow the "Pipeline-as-Code" deployment model described here below.
 This model is the result of the combined work of the Platform Engineering and Application DevSecOps teams.
